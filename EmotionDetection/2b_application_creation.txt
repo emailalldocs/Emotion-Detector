@@ -1,0 +1,7 @@
+$ python3
+Python 3.10.12 (main, Jun 11 2023, 05:26:28) [GCC 11.4.0] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> from emotion_detection import emotion_detector
+>>> emotion_detector("I love this new technology.")
+'{"emotionPredictions": [{"emotion": {"anger": 0.003102075, "disgust": 0.00067644026, "fear": 0.0010839956, "joy": 0.9620572, "sadness": 0.021008272}, "target": "", "emotionMentions": [{"span": {"begin": 0, "end": 27, "text": "I love this new technology."}, "emotion": {"anger": 0.003102075, "disgust": 0.00067644026, "fear": 0.0010839956, "joy": 0.9620572, "sadness": 0.021008272}}]}], "producerMetadata": {"name": "Emotion Predict Development", "version": "0.0.1"}}'
+>>> exit()
