@@ -8,3 +8,5 @@ Task 5: Run Unit tests on your application
 Task 6: Web deployment of the application using Flask
 Task 7: Incorporate error handling
 Task 8: Run static code analysis
+
+https://github.com/emailalldocs/Emotion-Detector/blob/main/README.md
